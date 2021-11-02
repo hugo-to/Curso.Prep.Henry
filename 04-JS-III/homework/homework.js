@@ -191,7 +191,7 @@ function todosIguales(arreglo) {
       return false
     }
   }
-  return true
+  return true;
 } 
 
 
